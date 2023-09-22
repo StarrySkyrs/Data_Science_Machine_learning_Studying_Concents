@@ -7,3 +7,6 @@ https://github.com/jvns/pandas-cookbook
 https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
 
 https://github.com/alexeygrigorev/data-science-interviews
+
+## Data Science Code Test
+https://github.com/ashtad63/HackerRank-Data-Scientist-Hiring-Test
